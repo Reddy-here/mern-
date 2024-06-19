@@ -1,0 +1,39 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: rgba(135, 207, 235, 0.762);
+  }
+  li,a{
+    padding: 8px;
+    color:blue;
+  }
+
+  li:hover{
+    background-color: orange;
+  }
+  a:hover{
+    color:white;
+  }
+
+.nav{
+    display: flex;
+    flex-direction: row;
+    width: 368px;
+    padding: 0px;
+    margin: 0px;
+    list-style: none;
+    background-color:rgba(128, 128, 128, 0.575);
+}
+
+.in{
+    padding: 8px;
+    color: blue;
+    border-right: 1px solid;
+}
+
+.in:hover{
+    background-color: grey;
+}

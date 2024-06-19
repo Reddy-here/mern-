@@ -1,0 +1,47 @@
+body {
+    background-color: #d7da3d;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+.nav {
+    position: absolute;
+    top: 16px;
+    left: 16px;
+}
+
+ul {
+    display: inline;
+    list-style: none;
+}
+
+li {
+    background-color: white;
+    margin: 8px;
+    padding-left: 4px;
+    padding-right: 28px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    border-right: 16px solid black;
+    color: blue;
+}
+
+.style {
+    margin-left: 200px;
+    margin-top: 16px;
+    color: purple;
+    border-bottom: 3px dashed purple;
+}
+
+.style1 {
+    margin-left: 200px;
+    margin-top: 16px;
+    color: purple;
+}
+
+a:visited {
+    color: blue;
+}

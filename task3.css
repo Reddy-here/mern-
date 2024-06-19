@@ -1,0 +1,22 @@
+
+Table{
+    border-collapse: collapse;
+    border: 2px solid whitesmoke;
+
+    width: 100%;
+}
+
+Table th{
+    text-align: left;
+    background-color:#04aa6dee;
+}
+th,tr,td:hover{
+    background-color: grey;
+}
+Table tr:nth-child(even){
+    background-color: #f2f2f2;
+}
+
+th , td{
+    padding: 5px;
+}

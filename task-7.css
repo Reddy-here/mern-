@@ -1,0 +1,68 @@
+body {
+    background-color: #73203E;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+div {
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+label {
+    padding: 8px;
+
+}
+
+.rad {
+    padding: 0px;
+    margin: 0px;
+}
+
+input {
+    padding: 2px;
+}
+
+input[type="submit"] {
+    padding: 8px;
+    margin-top: 8px;
+    width: 400px;
+    border-radius: 6px;
+}
+
+.num {
+    margin-left: 0px;
+}
+
+input[type="text"] {
+    margin-left: 60px;
+}
+
+input[type="email"] {
+    margin-left: 60px;
+}
+
+input[type="password"] {
+    margin-left: 36px;
+}
+
+.rad1 {
+    margin-left: 37px;
+}
+
+select {
+    margin-left: 34px;
+}
+
+.ab {
+    height: 40px;
+}
+
+#ahen {
+    margin-left: 40px;
+    width: 200px;
+}

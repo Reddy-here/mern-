@@ -1,0 +1,80 @@
+
+table,th,td{
+    background-color: #95D4D1;
+    border: 2px solid black;
+    border-radius: 6px;
+}
+table{
+    width: 100%;
+}
+th{
+    text-align: center;
+}
+td{
+    text-align: left;
+}
+
+/*--------------------------------------------------*/
+div{
+    width: 50%;
+    display: flex;
+    flex-wrap:wrap;
+    flex: 0 0 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+
+.one{
+    width: 60px;
+    height: 40px;
+    border: 2px solid lightgreen;
+    border-radius: 3px;
+}
+.two{
+    width: 60px;
+    height: 40px;
+    border: 2px solid lightgreen;
+    border-radius: 8px;
+}
+.three{
+    width: 60px;
+    height: 40px;
+    border: 2px solid lightgreen;
+    border-radius: 10px;
+}
+.four{
+    width: 60px;
+    height: 40px;
+    border: 2px solid lightgreen;
+    border-radius: 8px;
+}
+.five{
+    width: 60px;
+    height: 40px;
+    border: 2px solid lightgreen;
+    border-radius: 2px;
+}
+.six{
+    width: 60px;
+    height: 40px;
+    border: 2px solid lightgreen;
+    border-radius: 10px;
+}
+.seven{
+    border: 2px solid lightgreen;
+    border-radius: 100px;
+}
+.eight{
+    width: 60px;
+    height: 40px;
+    border: 2px solid lightgreen;
+    border-radius: 4px;
+}
+.nine{
+    width: 60px;
+    height: 40px;
+    border: 2px solid lightgreen;
+   border-radius: 4px 14px;
+}

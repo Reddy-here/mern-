@@ -1,0 +1,62 @@
+
+body{
+    border: 2px solid black;
+}
+nav{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+.one{
+    width: 40px;
+    height: 40px;
+    background-color: green;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 0px 4px 4px 0px;
+}
+
+.two{
+    width: 40px;
+    height: 40px;
+    background-color: skyblue;
+    margin-bottom: 10px;
+    border-radius: 0px 4px 4px 0px;
+}
+
+.three{
+    width: 40px;
+    height: 40px;
+    background-color: orangered;
+    margin-bottom: 10px;
+    border-radius: 0px 4px 4px 0px;
+}
+.four{
+    width: 40px;
+    height: 40px;
+    background-color:gray;
+    border-radius: 0px 4px 4px 0px;
+
+}
+.one:hover{
+    height: 80px;
+    width: 50%;
+}
+
+.two:hover{
+    height: 80px;
+    width: 50%;
+}
+
+.three:hover{
+    height: 80px;
+    width: 50%;
+}
+
+
+.four:hover{
+    height: 80px;
+    width: 50%;
+}
